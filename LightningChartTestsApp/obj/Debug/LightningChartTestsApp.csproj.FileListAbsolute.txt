@@ -1,0 +1,93 @@
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\LightningChartTestsApp.exe.config
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\LightningChartTestsApp.exe
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\LightningChartTestsApp.pdb
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\MainWindow.g.cs
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\UserControl1.g.cs
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\App.g.cs
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\LightningChartTestsApp_MarkupCompile.cache
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\LightningChartTestsApp_MarkupCompile.lref
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\MainWindow.baml
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\UserControl1.baml
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\LightningChartTestsApp.g.resources
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\LightningChartTestsApp.Properties.Resources.resources
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\LightningChartTestsApp.csproj.GenerateResource.cache
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\LightningChartTestsApp.csproj.CoreCompileInputs.cache
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\LightningChartTestsApp.exe
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\LightningChartTestsApp.pdb
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\UserControl2.g.cs
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\UserControl2.baml
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\Arction.DirectX.dll
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\Arction.DirectXInit.dll
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\Arction.Licensing.dll
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\Arction.RenderingDefinitions.dll
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\Arction.RenderingEngine.dll
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\Arction.RenderingEngine11.dll
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\Arction.RenderingEngine9.dll
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\Arction.Wpf.Charting.LightningChartUltimate.dll
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\DspClient.dll
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\DspDataModel.dll
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\NLog.dll
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\PhaseMath.dll
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\Settings.dll
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\System.ValueTuple.dll
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\USRPInteropAssembly.dll
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\YamlDotNet.dll
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\DspProtocols.dll
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\NetLib.dll
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\Nito.AsyncEx.dll
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\SharpExtensions.dll
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\DspClient.pdb
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\DspDataModel.pdb
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\Settings.pdb
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\DspProtocols.pdb
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\LightningChartTestsApp.csproj.CopyComplete
+C:\Users\UserPc\Documents\Visual Studio 2017\Projects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\LightningChartTestsApp.csprojAssemblyReference.cache
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\LightningChartTestsApp.exe.config
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\LightningChartTestsApp.exe
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\LightningChartTestsApp.pdb
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\Arction.DirectX.dll
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\Arction.DirectXInit.dll
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\Arction.Licensing.dll
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\Arction.RenderingDefinitions.dll
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\Arction.RenderingEngine.dll
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\Arction.RenderingEngine11.dll
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\Arction.RenderingEngine9.dll
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\Arction.Wpf.Charting.LightningChartUltimate.dll
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\DspClient.dll
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\DspDataModel.dll
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\NLog.dll
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\PhaseMath.dll
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\Settings.dll
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\System.Numerics.Vectors.dll
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\System.ValueTuple.dll
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\USRPInteropAssembly.dll
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\YamlDotNet.dll
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\DspProtocols.dll
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\NetLib.dll
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\Nito.AsyncEx.dll
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\SharpExtensions.dll
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\DspClient.pdb
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\DspDataModel.pdb
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\Settings.pdb
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\bin\Debug\DspProtocols.pdb
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\LightningChartTestsApp.csproj.AssemblyReference.cache
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\LightningChartTestsApp.csproj.SuggestedBindingRedirects.cache
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\MainWindow.g.cs
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\UserControl1.g.cs
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\UserControl2.g.cs
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\App.g.cs
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\LightningChartTestsApp_MarkupCompile.cache
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\LightningChartTestsApp_MarkupCompile.lref
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\MainWindow.baml
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\UserControl1.baml
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\UserControl2.baml
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\LightningChartTestsApp.g.resources
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\LightningChartTestsApp.Properties.Resources.resources
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\LightningChartTestsApp.csproj.GenerateResource.cache
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\LightningChartTestsApp.csproj.CoreCompileInputs.cache
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\LightningChartTestsApp.csproj.CopyComplete
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\LightningChartTestsApp.exe
+D:\F\SomeOldProjects\LightningChartTestsApp\LightningChartTestsApp\obj\Debug\LightningChartTestsApp.pdb

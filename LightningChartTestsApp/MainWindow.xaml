@@ -1,0 +1,33 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LightningChartTestsApp"
+        xmlns:lcub="http://schemas.arction.com/bindablecharting/ultimate/" 
+        xmlns:lcusb="http://schemas.arction.com/semibindablecharting/ultimate/" 
+        xmlns:lcu="http://schemas.arction.com/charting/ultimate/" 
+        x:Class="LightningChartTestsApp.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="768.71" Width="1018.987">
+    <Grid>
+        <lcu:LightningChartUltimate x:Name="c3" Margin="0,0,0,42"/>
+        <ListView x:Name="lv" HorizontalAlignment="Left" Height="121" Margin="509,607,0,0" VerticalAlignment="Top" Width="492" ItemsSource="{Binding Phases}" Visibility="Hidden"/>
+        <Grid Height="668" Margin="871,0,0,70" VerticalAlignment="Bottom" HorizontalAlignment="Right"/>
+        <Button Content="Test" HorizontalAlignment="Left" Margin="10,0,0,10" Width="69" Click="Button_Click" Height="22" VerticalAlignment="Bottom" Visibility="Hidden"/>
+        <Button Content="Get ftm receiver time" HorizontalAlignment="Left" Margin="84,0,0,5" Width="127" Click="Button_Click_1" Height="27" VerticalAlignment="Bottom" Visibility="Hidden"/>
+        <Button Content="Get fpga time" HorizontalAlignment="Left" Margin="216,0,0,2" Width="77" Height="32" VerticalAlignment="Bottom" Click="Button_Click_2" Visibility="Hidden"/>
+        <Button Content="Correction" HorizontalAlignment="Left" Margin="365,0,0,5" Width="184" Click="Button_Click_3" Height="27" VerticalAlignment="Bottom" Visibility="Hidden"/>
+        <TextBox x:Name="tb" HorizontalAlignment="Left" Margin="618,0,0,6" TextWrapping="Wrap" Text="1" Width="85" Height="21" VerticalAlignment="Bottom"/>
+        <Label Content="Directory :" HorizontalAlignment="Left" Margin="563,0,0,4" Width="50" Height="27" VerticalAlignment="Bottom"/>
+        <TextBox x:Name="tbDirection" HorizontalAlignment="Left" Margin="803,0,0,6" TextWrapping="Wrap" Text="0" Width="85" Height="21" VerticalAlignment="Bottom"/>
+        <Label Content="File :" HorizontalAlignment="Left" Margin="733,0,0,4" Width="65" Height="27" VerticalAlignment="Bottom"/>
+        <Button Content="fhss" HorizontalAlignment="Left" Margin="950,0,0,9" Width="51" Click="Button_Click_4" Height="24" VerticalAlignment="Bottom"/>
+        <Label x:Name="labelLog" Content="Label" HorizontalAlignment="Left" Margin="10,0,0,1" Width="201" Height="33" VerticalAlignment="Bottom"/>
+        <Button Content="Open/Close" HorizontalAlignment="Left" Margin="211,0,0,8" Width="75" Click="Button_Click_5" Height="20" VerticalAlignment="Bottom"/>
+        <Button Content="Read" HorizontalAlignment="Left" Margin="293,0,0,7" Width="62" Click="Button_Click_6" Height="20" VerticalAlignment="Bottom"/>
+        <Button Content="Set" HorizontalAlignment="Left" Margin="509,0,0,8" Width="41" Click="Button_Click_8" Height="20" VerticalAlignment="Bottom"/>
+        <Button Content="Loop Start/Stop" HorizontalAlignment="Left" Margin="365,0,0,6" Width="126" Click="Button_Click_7" Height="22" VerticalAlignment="Bottom"/>
+        <Button Content="Open/Close" HorizontalAlignment="Left" Margin="211,0,0,8" Width="75" Click="Button_Click_5" Height="20" VerticalAlignment="Bottom"/>
+    </Grid>
+</Window>
